@@ -8,3 +8,5 @@ Here, i’m going to give a solution that has a better time complexity, which is
 - Find minimum distance and closest pairs in each subgroup.
 - Find minimum interdistance between the two subgroup :, here is the tricky part, because the minimum interdistance is surely lesser than the minimum distances of the two subgroups. This information makes the research of the closest pair much easier because the range of points that we take in consideration should be in the box having an edge of length d, so ths group of research becomes smaller.
 - Conclude about the minimum distance and the closest pairs.
+
+![alt example](example.png)
