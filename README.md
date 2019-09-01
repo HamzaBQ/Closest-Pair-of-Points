@@ -1,4 +1,4 @@
-** Closest points algorithm :**
+# Closest points algorithm: 
 
 Getting the minimum distance (or the closest pair of point) between a large number of 2D points is a really expensive problem. Its brute force solution, consisting of calculating distance between points 2 by 2 and then getting the minimum, has a time complexity of the order of n squre, where n is the length of the list of pairs.
 
